@@ -1,4 +1,4 @@
-S&P 500 AI Agent - AlphaMind
+[S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP?sa=X&sqi=2&ved=2ahUKEwiCxvrw-LGMAxXygP0HHYlDIIIQ3ecFegQINBAf) AI Agent - AlphaMind
 
 
 📌 Project Overview
