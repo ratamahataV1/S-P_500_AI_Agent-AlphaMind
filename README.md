@@ -1,6 +1,6 @@
 [S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP?sa=X&sqi=2&ved=2ahUKEwiCxvrw-LGMAxXygP0HHYlDIIIQ3ecFegQINBAf) AI Agent - AlphaMind
 
-
+</br>
 📌 Project Overview
 
 This project aims to build an AI-powered system for analyzing and predicting S&P 500 ETF trends. It will include:
@@ -15,7 +15,7 @@ News Sentiment Analysis: Using NLP to analyze financial news impact.
 
 This project represents an AI-driven approach to financial intelligence, leveraging deep learning and quantitative analysis to create a place where trading algorithms are built and refined.
 
-
+</br>
 🚀 Features
 
 Live & historical S&P 500 ETF data retrieval.
@@ -28,7 +28,7 @@ Sentiment analysis of financial news.
 
 Backtesting and performance evaluation.
 
-
+</br>
 🛠 Tech Stack
 
 Programming Language: Python
@@ -41,8 +41,8 @@ Trading Strategy: OpenAI Gym, Reinforcement Learning (RL)
 
 Web Scraping: BeautifulSoup, Scrapy
 
-NLP & Sentiment Analysis: NLTK, Hugging Face Transformers
-
+NLP & Sentiment Analysis: NLTK, Hugging Face Transformers</br>
+</br>
 
 📂 Project Structure
 ```
@@ -59,6 +59,7 @@ sp500-ai-trading-agent/
 │── README.md              # Project documentation
 ```
 
+</br>
 📌 Roadmap
 
 ✅ Data collection & visualization</br>
