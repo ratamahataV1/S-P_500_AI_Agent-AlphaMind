@@ -67,4 +67,55 @@ sp500-ai-trading-agent/
 🔲 Implement reinforcement learning trading bot</br>
 🔲 Develop news sentiment analysis module</br>
 🔲 Integrate all components into a unified system</br>
+</br>
+📌 Flowchart</br>
+✅ High-Level (Stage One) – (Major components: data fetching, machine learning predictions, trading decisions, and sentiment analysis.)</br>
+</br>
+![highLevel](https://github.com/user-attachments/assets/3adbc3d0-a3c0-4391-ba39-9ec22ba00817)
+</br>
+</br>
+🔲 Mid-Level (Stage two) (During Development) – (Interactions (of each module) between subsystems (components).)</br>
+</br>
+1. Data Collection & Preprocessing
+Fetch stock market data (Yahoo Finance API).
 
+Fetch financial news (Scraper or API).
+
+Preprocess & clean data (handling missing values, normalizing).
+
+Store data for analysis.</br>
+</br>
+</br>
+2. AI Model Training & Predictions
+Train machine learning models on historical data.
+
+Evaluate & optimize model performance.
+
+Generate predictions on new data.</br>
+</br>
+</br>
+3. Trading Decision Engine
+Use predictions to decide trade actions (Buy/Sell/Hold).
+
+Apply risk management strategies.
+
+Log decisions & actions for analysis.</br>
+</br>
+</br>
+4. Sentiment Analysis
+Analyze financial news with NLP.
+
+Compute sentiment scores to influence trading decisions.
+
+Store analysis for backtesting.</br>
+</br>
+</br>
+5. Execution & Monitoring
+Simulated trading (Backtesting).
+
+Live trading (when ready).
+
+Monitor model performance & log trades.
+
+</br>
+🔲 Low-Level (Stage tree) (Final Documentation) – (Internal logic, functions, and interactions between components.)</br>
