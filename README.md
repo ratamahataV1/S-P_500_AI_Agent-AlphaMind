@@ -123,5 +123,7 @@ Monitor model performance & log trades.
 </br>
 </br>
 </br>
-###Under Heavy Development!!! < /> 🍻 ❤️ ![re_brth](https://github.com/user-attachments/assets/a71e835c-793e-4f8f-bcfe-79352febc983)
+###Under Heavy Development!!! < /> 🍻 ❤️ 🕉 🪬 ☾𖤓 🍄 🪷 🧘🏻‍♂️
+
+
 
