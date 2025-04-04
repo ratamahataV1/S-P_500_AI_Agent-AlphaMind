@@ -1,4 +1,4 @@
-[S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP?sa=X&sqi=2&ved=2ahUKEwiCxvrw-LGMAxXygP0HHYlDIIIQ3ecFegQINBAf) AI Agent - AlphaMind
+![ChatGPT Image Apr 4, 2025, 09_35_24 PM](https://github.com/user-attachments/assets/faae1ce9-3cd7-40c0-a0c1-563c3aab3d5c)[S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP?sa=X&sqi=2&ved=2ahUKEwiCxvrw-LGMAxXygP0HHYlDIIIQ3ecFegQINBAf) AI Agent - AlphaMind
 
 </br>
 📌 Project Overview
@@ -119,3 +119,8 @@ Monitor model performance & log trades.
 
 </br>
 🔲 Low-Level (Stage tree) (Final Documentation) – (Internal logic, functions, and interactions between components.)</br>
+</br>
+</br>
+</br>
+</br>
+###Under Heavy Development!!! < /> 🍻 ❤️
