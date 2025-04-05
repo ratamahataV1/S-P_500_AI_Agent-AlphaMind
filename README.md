@@ -123,7 +123,7 @@ Monitor model performance & log trades.
 </br>
 </br>
 </br>
-###Under Heavy Development!!! < /> 🍻 ❤️ 🕉 🪬 ☾𖤓 🍄 🪷 🧘🏻‍♂️
+###Under Heavy Development!!! < /> 🍻 ❤️ 🪷 🕉 🪬 ☾𖤓 🍄 🧘🏻‍♂️
 
 
 
